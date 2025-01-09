@@ -4,7 +4,7 @@ My name is Rashmi Dhamija. I obtained my Ph.D. in experimental high-energy physi
 
 With over five years of experience working on large-scale data analysis, statistical modeling, and machine learning algorithms, I am passionate about leveraging my Ph.D. and comprehensive skill set to solve real-world challenges and make a significant impact.
 
-In addition to my technical expertise, I have strong problem-solving abilities, adaptability, and a collaborative approach, honed through years of working with diverse teams on complex projects. I am always enthusiastic about exploring new opportunities that drive industry advancement, particularly in healthcare or finance, where I can contribute to meaningful initiatives.
+In addition to my technical expertise, I have strong problem-solving abilities, adaptability, and a collaborative approach, honed through years of working with diverse teams on complex projects. I am always enthusiastic about exploring new opportunities that drive industry advancement where I can contribute to meaningful initiatives.
 
 
 <!--
