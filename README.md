@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Rashmi Dhamija. I obtained my Ph.D. in experimental high-energy physics at the Indian Institute of Technology (IIT), Hyderabad, India, in collaboration with the Belle experiment at KEK, Japan. I am currently working as a Project Scientist at National Brain Research Centre (NBRC), Manesar, Gurugram, Haryana, India.
+My name is Rashmi Dhamija. I obtained a Ph.D. in experimental high-energy physics at the Indian Institute of Technology (IIT), Hyderabad, India, in collaboration with the Belle experiment at KEK, Japan. I am currently working as a Project Scientist at National Brain Research Centre (NBRC), Manesar, Gurugram, Haryana, India.
 
 With over five years of experience working on large-scale data analysis, statistical modeling, and machine learning algorithms, I am passionate about leveraging my Ph.D. and comprehensive skill set to solve real-world challenges and make a significant impact.
 
